@@ -35,3 +35,19 @@ Frontend => public
 Backend => Admin
 Frontend => Internet Application
 Backend => Intranet Application
+
+
+
+### Demo Application for testing:
+------------------------------
+
+https://demo.opencart.com/
+
+![image](https://user-images.githubusercontent.com/47386222/216559180-5a0ad933-729f-42d9-972f-62792d6364fa.png)
+
+------------------------------------------------------------------------------
+FRS => Functional Requirements Specification
+Mockup Screen => it is dummy screen. which will design before actual software design.
+
+Test Plan Doc => which is describe the socp of the testing.(feature has to be tested, feature has not to be tested, schedules, what are the tool we used, what type of testing we conduct etc.. )
+
